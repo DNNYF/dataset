@@ -1,0 +1,22 @@
+buat dataset total semuanya menjadi 10k yang isinya 50% bahasa indramayu 50% bahasa Indonesia . dan masing-masing topik harus lebih dari 1 conversation.
+
+berikut format format datasetnya :
+
+berikan dataset sesuai topik yang diberikan user dengan format : 
+[{
+    "conversations": [{
+        "role": "human",
+        "content": ""
+      },
+      {
+        "role": "assistant",
+        "content": ""
+      }
+    ]
+  },...dst 
+]
+
+dengan ketentuan sebagaiberikut :
+1. harus Lengkap, detail (nama festival, lokasi, bulan, deskripsi, dll)
+2. 50% bahasa indonesia dan 50% bahasa indramayu
+3. sertakan style seperti  [ \n, \n\n , \"<kata/kalimat>\", dll ]
