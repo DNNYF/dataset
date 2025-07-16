@@ -57,75 +57,75 @@ class IndramayuDatasetGenerator:
         return {
             "Pulau Biawak": {
                 "type": "pulau",
-                "history": "Pulau Biawak merupakan pulau kecil yang terletak di utara Pantai Karangsong. Nama 'Biawak' berasal dari populasi biawak liar yang menghuni pulau ini secara alami sejak ratusan tahun lalu.",
-                "location": "sekitar 40 km dari pusat kota Indramayu, dapat diakses melalui Pelabuhan Karangsong dengan perjalanan perahu selama 3-4 jam",
-                "attractions": "pengamatan biawak di habitat asli, pantai berpasir putih dengan air laut jernih, snorkeling, diving, dan menikmati sunset yang menakjubkan",
-                "culture": "tempat yang dianggap sakral oleh masyarakat setempat dan sering dijadikan lokasi ritual tradisional nelayan",
-                "events": "festival konservasi biawak yang diadakan setiap tahun untuk edukasi pelestarian satwa"
+                "history": "Pulau Biawak merupakan pulau kecil yang terletak di utara Pantai Karangsong. Nama 'Biawak' berasal dari populasi biawak liar yang menghuni pulau ini secara alami sejak ratusan tahun lalu. Pulau ini juga memiliki sejarah sebagai tempat perlindungan nelayan dari badai laut dan menjadi lokasi istirahat dalam perjalanan melaut yang jauh.",
+                "location": "sekitar 40 km dari pusat kota Indramayu, dapat diakses melalui Pelabuhan Karangsong dengan perjalanan perahu selama 3-4 jam melewati perairan Laut Jawa yang tenang",
+                "attractions": "pengamatan biawak komodo mini di habitat asli mereka, pantai berpasir putih dengan air laut jernih berwarna biru kehijauan, snorkeling untuk melihat terumbu karang, diving dengan visibility hingga 15 meter, dan menikmati sunset spektakuler di tengah laut lepas",
+                "culture": "tempat yang dianggap sakral oleh masyarakat setempat dan sering dijadikan lokasi ritual tradisional nelayan untuk meminta keselamatan melaut, serta menjadi bagian dari cerita rakyat tentang penjaga laut",
+                "events": "festival konservasi biawak yang diadakan setiap bulan Oktober, ekspedisi penelitian biawak bersama universitas, dan ritual sedekah laut oleh nelayan setempat"
             },
             "Pantai Karangsong": {
                 "type": "pantai",
-                "history": "Pantai Karangsong telah menjadi pelabuhan nelayan utama di Indramayu sejak era kolonial Belanda. Nama 'Karangsong' berasal dari kata 'karang' dan 'song' yang berarti batu karang yang menyerupai rumah tradisional.",
-                "location": "terletak di Desa Karangsong, Kecamatan Indramayu, sekitar 35 km dari pusat kota Indramayu",
-                "attractions": "pelabuhan perikanan tradisional, pasar ikan segar, wisata kuliner seafood, dan pemandangan sunset di dermaga nelayan",
-                "culture": "pusat kehidupan nelayan tradisional dengan berbagai upacara adat laut seperti Nadran dan Sedekah Laut",
-                "events": "upacara Nadran setiap bulan Suro, festival kuliner seafood, dan pasar ikan harian di pagi dan sore hari"
+                "history": "Pantai Karangsong telah menjadi pelabuhan nelayan utama di Indramayu sejak era kolonial Belanda pada abad ke-19. Nama 'Karangsong' berasal dari kata 'karang' dan 'song' yang dalam bahasa Jawa berarti batu karang yang menyerupai rumah tradisional. Pantai ini juga menjadi saksi sejarah perjuangan kemerdekaan Indonesia sebagai jalur komunikasi pejuang.",
+                "location": "terletak di Desa Karangsong, Kecamatan Indramayu, sekitar 35 km dari pusat kota Indramayu. Dapat dicapai melalui jalan raya Pantura dengan kondisi jalan beraspal mulus dan dilengkapi rambu petunjuk yang jelas",
+                "attractions": "pelabuhan perikanan tradisional dengan ratusan perahu nelayan warna-warni, pasar ikan segar dengan berbagai jenis ikan laut, tempat pelelangan ikan (TPI) yang ramai setiap pagi, wisata kuliner seafood dengan menu andalan kepiting soka dan rajungan, serta pemandangan sunset yang memukau di dermaga nelayan",
+                "culture": "pusat kehidupan nelayan tradisional dengan berbagai upacara adat laut seperti Nadran dan Sedekah Laut yang telah diwariskan turun-temurun. Masyarakat setempat juga melestarikan tradisi gotong royong dalam aktivitas melaut dan berbagi hasil tangkapan",
+                "events": "upacara Nadran setiap bulan Suro dalam kalender Jawa, festival kuliner seafood setiap bulan Juli, pasar ikan harian yang paling ramai di pagi dan sore hari, serta pertunjukan kesenian Tarling di malam tertentu"
             },
             "Hutan Mangrove Karangsong": {
                 "type": "hutan",
-                "history": "Hutan Mangrove Karangsong merupakan kawasan konservasi yang dikembangkan sejak tahun 1990-an sebagai upaya pelestarian ekosistem pesisir dan pencegahan abrasi pantai.",
-                "location": "berada di area pesisir Desa Karangsong, dapat diakses melalui jalan raya Indramayu-Cirebon kemudian menuju pantai",
-                "attractions": "jembatan kayu sepanjang 500 meter, pengamatan burung langka, wisata edukasi ekosistem mangrove, dan spot fotografi alam",
-                "culture": "dijadikan lokasi edukasi konservasi alam bagi masyarakat setempat dan sebagai penyangga kehidupan nelayan tradisional",
-                "events": "program penanaman mangrove setiap bulan, tour edukasi konservasi, dan kegiatan birdwatching"
+                "history": "Hutan Mangrove Karangsong merupakan kawasan konservasi yang dikembangkan sejak tahun 1990-an sebagai upaya pelestarian ekosistem pesisir dan pencegahan abrasi pantai. Awalnya area ini adalah lahan kosong yang kemudian ditanami mangrove melalui program rehabilitasi lingkungan yang melibatkan masyarakat setempat dan berbagai NGO.",
+                "location": "berada di area pesisir Desa Karangsong, sekitar 2 km dari Pantai Karangsong. Dapat diakses melalui jalan raya Indramayu-Cirebon kemudian menuju pantai dengan jalan setapak yang telah diperbaiki dan dilengkapi papan petunjuk",
+                "attractions": "jembatan kayu sepanjang 500 meter yang membentang di atas hutan mangrove, menara pengamatan setinggi 15 meter untuk bird watching, pengamatan berbagai spesies burung langka seperti blekok sawah dan kuntul, wisata edukasi ekosistem mangrove dengan pemandu lokal, spot fotografi alam yang Instagram-able, dan area camping ground yang nyaman",
+                "culture": "dijadikan lokasi edukasi konservasi alam bagi masyarakat setempat dan menjadi simbol keberhasilan gotong royong dalam pelestarian lingkungan. Tempat ini juga menjadi penyangga kehidupan nelayan tradisional yang memahami pentingnya menjaga ekosistem laut",
+                "events": "program penanaman mangrove setiap bulan yang melibatkan volunteer, tour edukasi konservasi untuk sekolah-sekolah, kegiatan birdwatching rutin setiap akhir pekan, dan workshop fotografi alam"
             },
             "Pantai Tirtamaya": {
-                "type": "pantai",
-                "history": "Pantai Tirtamaya mulai dikembangkan sebagai destinasi wisata pada tahun 2000-an. Nama 'Tirtamaya' berasal dari bahasa Sanskerta yang berarti 'air suci yang indah'.",
-                "location": "terletak di Desa Tirtamaya, Kecamatan Indramayu, sekitar 25 km dari pusat kota dengan akses jalan yang mudah",
-                "attractions": "pantai dengan ombak tenang cocok untuk berenang, area bermain anak, warung kuliner seafood, dan gazebo untuk bersantai",
-                "culture": "menjadi tempat rekreasi favorit keluarga dan sering dijadikan lokasi acara syukuran masyarakat setempat",
-                "events": "festival pantai bersih setiap bulan, kompetisi memancing, dan pertunjukan seni budaya lokal di akhir pekan"
+                "type": "pantai", 
+                "history": "Pantai Tirtamaya mulai dikembangkan sebagai destinasi wisata pada tahun 2000-an atas inisiatif masyarakat setempat yang ingin mengembangkan potensi wisata daerah. Nama 'Tirtamaya' berasal dari bahasa Sanskerta yang berarti 'air suci yang indah', mencerminkan harapan masyarakat akan pantai yang bersih dan lestari.",
+                "location": "terletak di Desa Tirtamaya, Kecamatan Indramayu, sekitar 25 km dari pusat kota melalui jalan provinsi yang mudah dilalui. Terdapat area parkir luas dan akses yang ramah untuk semua kalangan termasuk penyandang disabilitas",
+                "attractions": "pantai dengan ombak tenang yang cocok untuk berenang anak-anak, area bermain anak dengan wahana permainan yang aman, warung kuliner seafood dengan menu andalan ikan bakar dan kerang hijau, gazebo-gazebo untuk bersantai keluarga, dan banana boat untuk wisata air yang menyenangkan",
+                "culture": "menjadi tempat rekreasi favorit keluarga dari berbagai daerah dan sering dijadikan lokasi acara syukuran, pernikahan outdoor, dan gathering masyarakat setempat. Pantai ini juga menjadi tempat pembelajaran bagi anak-anak tentang kehidupan laut",
+                "events": "festival pantai bersih setiap bulan dengan partisipasi masyarakat luas, kompetisi memancing untuk umum setiap minggu, pertunjukan seni budaya lokal seperti Tari Topeng dan musik Tarling di akhir pekan, serta pasar kuliner malam di area pantai"
             },
             "Masjid Agung Indramayu": {
                 "type": "masjid",
-                "history": "Masjid Agung Indramayu dibangun pada abad ke-15 oleh Sultan Wiralodra sebagai pusat kegiatan keagamaan Islam di wilayah Indramayu. Arsitekturnya memadukan gaya Jawa dan Arab.",
-                "location": "berada di jantung kota Indramayu, Jalan Jenderal Sudirman, mudah diakses dengan berbagai transportasi umum",
-                "attractions": "arsitektur klasik dengan ornamen ukiran kayu Jawa, mihrab berornamen kaligrafi Arab, dan halaman luas untuk kegiatan komunal",
-                "culture": "pusat kegiatan keagamaan dan sosial masyarakat Indramayu, tempat pengajian akbar dan perayaan hari besar Islam",
-                "events": "shalat Idul Fitri dan Idul Adha, pengajian akbar setiap Jumat, dan kajian rutin setiap malam"
+                "history": "Masjid Agung Indramayu dibangun pada abad ke-15 oleh Sultan Wiralodra sebagai pusat kegiatan keagamaan Islam di wilayah Indramayu. Arsitekturnya memadukan gaya Jawa tradisional dengan unsur Arab, mencerminkan akulturasi budaya dalam penyebaran Islam. Masjid ini telah mengalami beberapa kali renovasi namun tetap mempertahankan nilai historis dan arsitektur aslinya.",
+                "location": "berada di jantung kota Indramayu, tepatnya di Jalan Jenderal Sudirman No. 1, sangat mudah diakses dengan berbagai transportasi umum seperti angkot, ojek, dan bus kota. Lokasi strategis ini membuatnya menjadi landmark utama kota Indramayu",
+                "attractions": "arsitektur klasik dengan ornamen ukiran kayu Jawa yang indah, mihrab berornamen kaligrafi Arab yang megah, kubah utama berdiameter 12 meter dengan detail yang menawan, halaman luas yang dapat menampung ribuan jamaah, museum mini sejarah Islam Indramayu, dan perpustakaan dengan koleksi kitab-kitab klasik",
+                "culture": "pusat kegiatan keagamaan dan sosial masyarakat Indramayu yang menjadi tempat berkumpulnya berbagai lapisan masyarakat. Masjid ini juga menjadi tempat pengajian akbar, diskusi keagamaan, dan pusat koordinasi kegiatan sosial keagamaan di wilayah Indramayu",
+                "events": "shalat berjamaah Idul Fitri dan Idul Adha yang dihadiri ribuan jamaah, pengajian akbar setiap Jumat sore dengan penceramah ternama, kajian rutin setiap malam setelah shalat Maghrib, dan perayaan Maulid Nabi yang meriah"
             },
             "Makam Raden Arya Wiralodra": {
                 "type": "makam",
-                "history": "Makam Raden Arya Wiralodra adalah tempat peristirahatan terakhir pendiri Kabupaten Indramayu pada abad ke-15. Beliau adalah sosok yang sangat dihormati dan dianggap sebagai wali penyebar Islam di wilayah ini.",
-                "location": "terletak di kompleks pemakaman Panjunan, Kelurahan Panjunan, Kecamatan Indramayu, dekat dengan pusat kota",
-                "attractions": "makam berarsitektur Jawa kuno dengan cungkup kayu jati, halaman luas dengan pohon-pohon tua, dan museum mini sejarah Indramayu",
-                "culture": "tempat ziarah dan spiritual yang sangat dihormati masyarakat Indramayu, sering dikunjungi untuk meminta berkah dan doa",
-                "events": "haul Raden Arya Wiralodra setiap tahun, ziarah massal saat bulan Ramadan, dan upacara tradisional Jawa"
+                "history": "Makam Raden Arya Wiralodra adalah tempat peristirahatan terakhir pendiri Kabupaten Indramayu pada abad ke-15. Beliau adalah putra Sultan Cirebon yang ditugaskan untuk membuka wilayah baru dan menyebarkan agama Islam. Raden Arya Wiralodra dikenal sebagai sosok yang bijaksana, adil, dan sangat peduli dengan rakyatnya, sehingga dihormati hingga kini.",
+                "location": "terletak di kompleks pemakaman Panjunan, Kelurahan Panjunan, Kecamatan Indramayu, sekitar 3 km dari pusat kota. Lokasi ini mudah diakses dengan kendaraan roda dua maupun roda empat dan tersedia area parkir yang memadai",
+                "attractions": "makam berarsitektur Jawa kuno dengan cungkup kayu jati berukir indah, halaman luas dengan pohon-pohon tua yang rindang berusia ratusan tahun, museum mini sejarah Indramayu dengan koleksi artefak bersejarah, dan area taman yang asri untuk kontemplasi",
+                "culture": "tempat ziarah dan spiritual yang sangat dihormati masyarakat Indramayu dan sekitarnya. Banyak peziarah yang datang untuk meminta berkah, doa untuk kesuksesan, dan pembelajaran spiritual. Tempat ini juga menjadi simbol kepemimpinan yang adil dan bijaksana",
+                "events": "haul Raden Arya Wiralodra setiap tanggal wafatnya dengan prosesi tradisional Jawa, ziarah massal saat bulan Ramadan dan menjelang Idul Fitri, upacara tradisional Jawa seperti selametan dan doa bersama, serta kegiatan dakwah dan pengajian"
             },
             "Tugu Mangga": {
                 "type": "tugu",
-                "history": "Tugu Mangga dibangun sebagai simbol kebanggaan Indramayu yang terkenal dengan Mangga Gedong Gincu berkualitas premium. Tugu ini diresmikan pada tahun 2005 sebagai landmark kota.",
-                "location": "terletak di pusat kota Indramayu, tepatnya di persimpangan jalan utama yang menghubungkan berbagai wilayah kabupaten",
-                "attractions": "tugu setinggi 15 meter berbentuk mangga raksasa, taman kota dengan berbagai tanaman hias, dan area kuliner malam hari",
-                "culture": "menjadi identitas kota Indramayu dan simbol kejayaan pertanian mangga yang telah mengharumkan nama daerah",
-                "events": "Festival Mangga Gedong Gincu setiap bulan Juli-Agustus, pameran produk lokal, dan pertunjukan budaya"
+                "history": "Tugu Mangga dibangun sebagai simbol kebanggaan Indramayu yang terkenal dengan Mangga Gedong Gincu berkualitas premium yang telah mendapat pengakuan internasional. Tugu ini diresmikan pada tahun 2005 oleh Bupati Indramayu sebagai landmark kota dan penanda identitas daerah yang kuat akan komoditas unggulan mangga.",
+                "location": "terletak di pusat kota Indramayu, tepatnya di persimpangan Jalan Jenderal Sudirman dan Jalan Letjen Suwondo, yang merupakan jalan utama menghubungkan berbagai wilayah kabupaten. Lokasi strategis ini membuatnya mudah ditemukan dan menjadi meeting point populer",
+                "attractions": "tugu setinggi 15 meter berbentuk mangga raksasa dengan detail yang realistis dan cat berwarna emas mengkilap, taman kota dengan berbagai tanaman hias dan bunga warna-warni, area kuliner malam hari dengan berbagai menu lokal dan modern, serta spot foto favorit wisatawan dan keluarga",
+                "culture": "menjadi identitas kota Indramayu dan simbol kejayaan pertanian mangga yang telah mengharumkan nama daerah hingga mancanegara. Tugu ini juga menjadi kebanggaan petani mangga lokal dan simbol kemakmuran dari sektor pertanian",
+                "events": "Festival Mangga Gedong Gincu setiap bulan Juli-Agustus dengan berbagai kompetisi dan pameran, pameran produk lokal UMKM setiap akhir pekan, pertunjukan budaya tradisional seperti Wayang Kulit dan Tari Topeng, serta car free day setiap minggu pagi"
             },
             "Festival Mangga Gedong Gincu (event tahunan)": {
                 "type": "festival",
-                "history": "Festival Mangga Gedong Gincu pertama kali diadakan pada tahun 2008 sebagai upaya promosi mangga unggulan Indramayu yang telah mendapat sertifikat internasional. Festival ini menjadi ajang bangga masyarakat petani mangga.",
-                "location": "diselenggarakan di berbagai lokasi strategis di Indramayu, dengan pusat acara di Alun-alun Puspawangi dan Tugu Mangga",
-                "attractions": "pameran mangga dari berbagai petani, lomba makan mangga, demo pengolahan produk mangga, dan bazaar kuliner khas Indramayu",
-                "culture": "merayakan hasil panen mangga terbaik dan melestarikan tradisi pertanian yang sudah turun-temurun di masyarakat Indramayu",
-                "events": "diadakan setiap bulan Juli-Agustus selama musim panen mangga, meliputi parade, kompetisi, dan pertunjukan seni budaya"
+                "history": "Festival Mangga Gedong Gincu pertama kali diadakan pada tahun 2008 sebagai upaya promosi mangga unggulan Indramayu yang telah mendapat sertifikat Indikasi Geografis dari Kementerian Hukum dan HAM. Festival ini lahir dari inisiatif petani mangga dan pemerintah daerah untuk mengangkat harkat dan martabat petani serta memperkenalkan keunggulan mangga Indramayu ke dunia.",
+                "location": "diselenggarakan di berbagai lokasi strategis di Indramayu, dengan pusat acara di Alun-alun Puspawangi dan area Tugu Mangga. Event juga tersebar di kebun-kebun mangga milik petani untuk memberikan pengalaman wisata agro yang autentik",
+                "attractions": "pameran mangga dari ratusan petani dengan berbagai varietas unggulan, lomba makan mangga dengan hadiah menarik, demo pengolahan produk mangga menjadi berbagai makanan dan minuman, bazaar kuliner khas Indramayu dengan menu berbahan dasar mangga, workshop pembuatan olahan mangga, dan tur kebun mangga guided",
+                "culture": "merayakan hasil panen mangga terbaik dan melestarikan tradisi pertanian yang sudah turun-temurun selama puluhan generasi di masyarakat Indramayu. Festival ini juga menjadi ajang silaturahmi petani dan apresiasi terhadap kerja keras mereka dalam menghasilkan mangga berkualitas dunia",
+                "events": "diadakan setiap bulan Juli-Agustus selama musim panen mangga puncak, meliputi parade float bertema mangga, kompetisi fotografi dengan tema agrowisata, pertunjukan seni budaya lokal, pameran teknologi pertanian modern, dan festival kuliner dengan chef ternama"
             },
             "Upacara Adat Nadran (event tahunan)": {
                 "type": "upacara",
-                "history": "Upacara Nadran adalah tradisi turun-temurun masyarakat nelayan Indramayu yang telah berlangsung selama ratusan tahun. Nadran berasal dari kata 'nadzar' yang berarti janji atau sumpah kepada Yang Maha Kuasa.",
-                "location": "dilaksanakan di berbagai pantai di Indramayu, terutama Pantai Karangsong, dengan prosesi menuju laut lepas menggunakan perahu tradisional",
-                "attractions": "prosesi larung sesaji ke laut, pertunjukan kesenian tradisional seperti tari topeng, wayang kulit, dan musik tradisional Tarling",
-                "culture": "tradisi syukur nelayan atas hasil tangkapan ikan dan permohonan keselamatan dalam melaut, mencerminkan hubungan harmonis manusia dengan alam",
-                "events": "diadakan setiap bulan Suro (Muharram) dalam penanggalan Jawa, meliputi berbagai ritual dan perayaan selama satu minggu penuh"
+                "history": "Upacara Nadran adalah tradisi turun-temurun masyarakat nelayan Indramayu yang telah berlangsung selama berabad-abad, diperkirakan sudah ada sejak abad ke-16. Nadran berasal dari kata 'nadzar' yang berarti janji atau sumpah kepada Yang Maha Kuasa. Tradisi ini merupakan warisan budaya yang menggabungkan nilai-nilai Islam dengan kearifan lokal masyarakat pesisir.",
+                "location": "dilaksanakan di berbagai pantai di Indramayu, terutama Pantai Karangsong sebagai pusat utama, dengan prosesi menuju laut lepas menggunakan ratusan perahu tradisional yang dihias dengan bendera warna-warni. Acara juga melibatkan desa-desa pesisir lainnya",
+                "attractions": "prosesi larung sesaji ke laut dengan perahu hias yang spektakuler, pertunjukan kesenian tradisional seperti Tari Topeng Indramayu yang memukau, pertunjukan Wayang Kulit semalam suntuk, musik tradisional Tarling yang merdu, parade budaya dengan kostum tradisional, dan pameran hasil laut",
+                "culture": "tradisi syukur nelayan atas hasil tangkapan ikan dan permohonan keselamatan dalam melaut yang mencerminkan hubungan harmonis manusia dengan alam. Upacara ini juga menjadi media pelestarian nilai-nilai gotong royong, kebersamaan, dan spiritualitas masyarakat pesisir",
+                "events": "diadakan setiap bulan Suro (Muharram) dalam penanggalan Jawa dengan rangkaian acara selama satu minggu penuh, meliputi berbagai ritual keagamaan, pertunjukan seni, pasar rakyat, dan festival kuliner seafood tradisional"
             }
         }
     
