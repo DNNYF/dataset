@@ -1,22 +1,71 @@
-buat dataset total semuanya menjadi 10k yang isinya 50% bahasa indramayu 50% bahasa Indonesia . dan masing-masing topik harus lebih dari 1 conversation.
+Buat dataset percakapan untuk pelatihan model bahasa dengan total 10.000 entries.
 
-berikut format format datasetnya :
+**Struktur Dataset:**
+Format setiap data harus seperti ini:
 
-berikan dataset sesuai topik yang diberikan user dengan format : 
-[{
-    "conversations": [{
+[
+  {
+    "conversations": [
+      {
         "role": "human",
-        "content": ""
+        "content": "<pertanyaan>"
       },
       {
         "role": "assistant",
-        "content": ""
+        "content": "<jawaban>"
       }
     ]
-  },...dst 
+  },
+  ...
 ]
 
-dengan ketentuan sebagaiberikut :
-1. harus Lengkap, detail (nama festival, lokasi, bulan, deskripsi, dll)
-2. 50% bahasa indonesia dan 50% bahasa indramayu
-3. sertakan style seperti  [ \n, \n\n , \"<kata/kalimat>\", dll ]
+**Ketentuan Konten Dataset:**
+
+1. Dataset harus berisi total **10.000 conversations**:
+   - **50%** (5.000 entries) menggunakan Bahasa Indonesia.
+   - **50%** (5.000 entries) menggunakan Bahasa Indramayu.
+
+2. **Setiap topik wajib memiliki lebih dari 1 conversation**.
+   - Jika ada 30 topik, distribusikan secara merata (contoh: minimal 300 entries per topik).
+
+3. Jawaban harus **lengkap dan detail**, mencakup:
+   - Nama tempat atau acara.
+   - Lokasi geografis.
+   - Cara akses atau transportasi.
+   - Deskripsi sejarah atau latar belakang.
+   - Aktivitas utama yang bisa dilakukan.
+   - Informasi budaya atau tradisi terkait.
+   - Waktu penyelenggaraan (bulan atau musim), jika relevan.
+
+4. **Gaya penulisan harus variatif dan natural**, hindari pengulangan kalimat yang sama.
+   - Gunakan variasi kalimat, sinonim, dan contoh.
+
+5. **Style formatting harus konsisten dan natural**, meliputi:
+   - Pemisah paragraf dengan `\n\n`
+   - Pemisah baris dengan `\n`
+   - Penggunaan tanda kutip di dalam teks jika perlu, misalnya:
+     - "Festival Mangga Gedong Gincu"
+     - "Pantai Balongan Indah"
+
+6. Gunakan **bahasa sesuai proporsi**:
+   - Jika jawaban Bahasa Indonesia, seluruh jawaban dalam Bahasa Indonesia.
+   - Jika jawaban Bahasa Indramayu, seluruh jawaban dalam Bahasa Indramayu.
+
+7. Panjang jawaban minimal 3 paragraf untuk setiap entry.
+   - Paragraf harus informatif dan tidak hanya mengulang kalimat.
+
+8. Gunakan **pertanyaan yang beragam** meskipun topiknya sama.
+   - Contoh variasi:
+     - "Bisakah Anda menjelaskan tentang [topik]?"
+     - "Apa saja yang menarik di [topik]?"
+     - "Bagaimana sejarah [topik]?"
+     - "Apa aktivitas yang bisa dilakukan di [topik]?"
+
+**Output:**
+- Hasil akhir wajib ditulis dalam format JSON array sesuai struktur di atas.
+- Setiap conversation harus berupa objek yang valid JSON.
+- Tidak ada tambahan teks atau komentar di luar array.
+
+**Catatan:**
+- Pastikan dataset seimbang 50% Bahasa Indonesia dan 50% Bahasa Indramayu.
+- Setiap topik harus memiliki banyak entri, bukan hanya satu.
